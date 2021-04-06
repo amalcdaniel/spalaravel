@@ -26,7 +26,7 @@ Route::get('/service', function () {
 });
 
 Route::get('/spagallery', function () {
-    return view('Spagallery');
+    return view('spagallery');
 });
 
 Route::get('/spagallery1', function () {
